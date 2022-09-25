@@ -20,6 +20,7 @@
 
 
 ### Websites / Blogs
+- [어느덧중반](https://kyungsnim.net/?page=4)
 - [Flutter World](https://medium.com/flutterworld)
 
 ### GitBooks
