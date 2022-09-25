@@ -12,6 +12,7 @@
 - [Dart](https://flutter.dev)
 - [Flutter](https://flutter.dev/)
 - [Flutter 한국어 버전](https://flutter-ko.dev)
+- [Flutter documentation](https://docs.flutter.dev/)
 - [Flutter 공식 YouTube](https://www.youtube.com/c/flutterdev)
 - [FlutterFire](https://firebase.flutter.dev/docs/overview/)
 
