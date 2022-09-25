@@ -14,7 +14,11 @@
 - [RetroPortal Studio](https://www.youtube.com/c/RetroPortalStudio)
 
 ### Websites / Blogs
+- [Flutter World](https://medium.com/flutterworld)
 
+### GitBooks
+- [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/flutter-hello-world)
+- [Flutter Open](https://flutteropen.gitbook.io/flutter-widgets/)
 
 ### Books
 - [오준석의 플러터 생존코딩](http://www.yes24.com/Product/Goods/101819249)
