@@ -4,8 +4,8 @@
 - [Resources](#resources)
   - [Websites / Blogs](#blogs)
   - [GitBooks](#books)
-	- [Books](#books)
-	- [Videos](#videos)
+  - [Books](#books)
+  - [Videos](#videos)
 	
 
 ## Official
