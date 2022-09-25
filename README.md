@@ -22,6 +22,7 @@
 
 ### Websites / Blogs
 - [어느덧중반](https://kyungsnim.net/?page=4)
+- [Flutter Beads](https://www.flutterbeads.com/)
 - [Flutter World](https://medium.com/flutterworld)
 - [FilledStacks: Mobile App Development Tutorials](https://www.filledstacks.com/)
 
