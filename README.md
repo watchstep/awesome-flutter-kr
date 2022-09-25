@@ -1,6 +1,12 @@
 # awesome-flutter-kr
 ## Contents
 - [Official](#official)
+- [Resources](#resources)
+  - [Websites / Blogs](#blogs)
+  - [GitBooks](#books)
+	- [Books](#books)
+	- [Videos](#videos)
+	
 
 ## Official
 - [Dart](https://flutter.dev)
