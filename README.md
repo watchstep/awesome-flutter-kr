@@ -46,6 +46,7 @@
 - [Mitch KoKo](https://www.youtube.com/c/MitchKoko)
 - [The Flutter Way](https://www.youtube.com/c/TheFlutterWay)
 - [RetroPortal Studio](https://www.youtube.com/c/RetroPortalStudio)
+- [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
 
 ### Books
 - [오준석의 플러터 생존코딩](http://www.yes24.com/Product/Goods/101819249)
