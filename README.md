@@ -5,7 +5,7 @@
 - [Official](#official)
 - [Tutorials](#tutorials)
 - [Resources](#resources)
-  - [Websites / Blogs](###websites-/-blogs)
+  - [Websites / Blogs](#websites--/--blogs)
   - [GitBooks](#books)
   - [Books](#books)
   - [Videos](#videos)
