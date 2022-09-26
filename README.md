@@ -9,7 +9,7 @@
   - [GitBooks](#books)
   - [Books](#books)
   - [Videos](#videos)
-- [Tip & Tricks](#tip & tricks)
+- [Tip & Tricks](#tip&tricks)
 	
 
 ## Official
