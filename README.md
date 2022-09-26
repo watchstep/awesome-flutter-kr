@@ -36,6 +36,7 @@
 - [코딩셰프](https://www.youtube.com/channel/UC_2ge45JCuJH1z6VYt4iCgQ)
 - [개발하는남자](https://www.youtube.com/c/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%EB%82%A8%EC%9E%90)
 - [Mitch KoKo](https://www.youtube.com/c/MitchKoko)
+- [The Flutter Way](https://www.youtube.com/c/TheFlutterWay)
 - [RetroPortal Studio](https://www.youtube.com/c/RetroPortalStudio)
 
 ### Books
