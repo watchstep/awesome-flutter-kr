@@ -9,7 +9,7 @@
 	
 
 ## Official
-- [Dart](https://flutter.dev)
+- [Dart](https://flutter.dev){: target="_blank"}
 - [Flutter](https://flutter.dev/)
 - [Flutter 한국어 버전](https://flutter-ko.dev)
 - [Flutter documentation](https://docs.flutter.dev/)
