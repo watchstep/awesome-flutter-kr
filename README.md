@@ -1,4 +1,6 @@
 # awesome-flutter-kr
+- [awesome-flutter](https://github.com/Solido/awesome-flutter)
+- [flutter-beginner-kr](https://github.com/izen1231/flutter-beginner-kr)
 ## Contents
 - [Official](#official)
 - [Tutorials](#tutorials)
