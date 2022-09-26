@@ -24,6 +24,7 @@
 
 ## Tutorials
 - [Flutter-StepByStep](https://github.com/fabiomsr/Flutter-StepByStep)
+- [Flutter-To Do List](https://github.com/lesnitsky/todolist_flutter)
 - [FilledStacks](https://www.filledstacks.com/)
 
 ## Resources
