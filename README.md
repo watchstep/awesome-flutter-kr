@@ -5,7 +5,7 @@
 - [Official](#official)
 - [Tutorials](#tutorials)
 - [Resources](#resources)
-  - [Websites / Blogs](#websites--/--blogs)
+  - [Websites/Blogs](#websites-/-blogs)
   - [GitBooks](#books)
   - [Books](#books)
   - [Videos](#videos)
@@ -28,7 +28,7 @@
 
 ## Resources
 
-### Websites / Blogs
+### Websites/Blogs
 - [어느덧중반](https://kyungsnim.net/?page=4)
 - [꿈꾸는 시스템 디자이너](https://here4you.tistory.com/category/Development/Flutter)
 - [Flutter Beads](https://www.flutterbeads.com/)
