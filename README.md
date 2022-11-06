@@ -32,6 +32,8 @@
 ### Websites Blogs
 - [어느덧중반](https://kyungsnim.net/?page=4)
 - [꿈꾸는 시스템 디자이너](https://here4you.tistory.com/category/Development/Flutter)
+- [CHOI - 나를 위한 기록](https://velog.io/@cyb9701?tag=flutter)
+- [코드팩토리 Code Factory](https://blog.codefactory.ai/)
 - [Flutter Beads](https://www.flutterbeads.com/)
 - [Flutter World](https://medium.com/flutterworld)
 - [FilledStacks: Mobile App Development Tutorials](https://www.filledstacks.com/)
